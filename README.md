@@ -11,12 +11,12 @@
 * ```apt install git -y```
 * ```git clone https://github.com/htr-tech/bash-lock```
 * ```cd bash-lock```
-* ```bash setup```
+* ```bash setup.sh```
 * ```bash bashlock```
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/bash-lock && cd bash-lock && bash setup && bash bashlock
+apt update && apt install git -y && git clone https://github.com/htr-tech/bash-lock && cd bash-lock && bash setup.sh && bash bashlock
 ```
 #### [+] You must have sdcard permission to use this tool. If you don't have then excute ```termux-setup-storage``` & Click **ALLOW**
 
